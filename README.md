@@ -17,3 +17,8 @@ A clean and modern landing page designed using **HTML & CSS**, showcasing a styl
 - **CSS3**
 
 ---
+## 📌 Future Improvements
+- Make the page responsive
+- Add product sections
+- Add animation effects
+- Convert to a multi-page website
